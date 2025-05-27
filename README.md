@@ -120,7 +120,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 ### Operation Systems
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://media.npr.org/assets/img/2012/02/17/6874.5_01c91ebc_custom-1b4ba0a7dd6493e4c9c2f7d32debf5a6cdf61b70.png?s=700&c=85&f=webp" alt="Microsoft Windows Logo" style="height: 20px; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_windows_simples.svg" alt="Windows Logo" style="height: 20px; margin-right: 8px;">
     Microsoft Windows
   </span>
 </div>
@@ -271,20 +271,17 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </span>
 </div>
 
-### Operation Systems
+### Languages
+
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_windows_simples.svg" alt="Windows Logo" style="height: 20px; margin-right: 8px;">
-    Microsoft Windows
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" style="height: 20px; margin-right: 8px;">
+    Brazilian Portuguese
   </span>
 </div>
 
 
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux Logo" style="height: 20px; margin-right: 8px;">
-    Linux
-  </span>
-</div>
+
+
 
 
