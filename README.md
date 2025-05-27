@@ -32,7 +32,8 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Apex_One_Saas%2FOn--Premise-FFFFFF?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABuUlEQVRYR+2WS0hUYRTHf9e3goMLMKyoLQICR5NSHREH6P2Ai5Shh4Eg08QcgqLS0glGAqNJWz1QCDHgCpDwTxgk1o9pJkChFhFaWLTMMhD5AJFq0WY7j36+wDlR/lCQ/vu/3fdve+53q6UzYv3wB7fXjicnAD9B+jkK7ALzJfBqwGcgEfCqzKgA+ZvHy+OWKyvP8O8H37gToH4FQ+BDoK9Cx6AzyNmIa7G88LVBhsZ0I8ch+ARZPqvQI+QfKgM8mTGeiy22icIKqVqnAUV+6BRcXgCYVQXqF1zPZMrpNFo5PzG1ZlDwBLNUpKSlz1eIm9XmhbLZbBqNYDq9UxgFOnJ7rXEKLCwtDqaTvGqWyxXxSZLHw3nxUyM4u5qH1zwf4djG0+c9nfTqgqyoEgCH7Iz85z/1svU9RGIYM2ylRZ4wBa2pgckvvHzc7qzJkTlcu1+mLFsGx+zAHJu7t39YQ7De7AHJ+mLMu6PZ/pdv+qB7f1LcU6XlPRsyUn1JPEQvn8AAAAASUVORK5CYII=&logoColor=FF0000&labelColor=FFFFFF" alt="Trend Micro Logo" />
+
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
@@ -91,5 +92,5 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+#- Detection Lab
+#- SOC Automation Project
