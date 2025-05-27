@@ -44,9 +44,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
@@ -58,10 +56,6 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
         <img src="https://www.cleanpng.com/png-clip-art-logo-yellow-brand-line-aws-logo-transpare-7091692/download-png-image" alt="AWS Logo" style="height: 20px; margin-right: 8px;">
         AWS Certified Solutions Architect – Associate
     </span>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
