@@ -80,6 +80,12 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </span>
 </div>
 
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WE-EQFubMHMnMv-bPIW5SA.png" alt="Google Cloud Platform Logo" style="height: 20px; margin-right: 8px;">
+    Google Cloud Platform
+  </span>
+</div>
 
 
 
