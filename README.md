@@ -16,11 +16,10 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/PaloAltoNetworks_2020_Logo.svg" alt="Palo Alto Networks Logo" style="height: 20px; margin-right: 8px;">
   Palo Alto Networks Firewall
-</span>
 </div>
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 40px; margin-right: 8px;">
     Fortigate Firewall
   </span>
 </div>
@@ -31,6 +30,8 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     FortiAnalyzer 
   </span>
 </div>
+
+
 
 ### Endpoint/Server
 <div>
@@ -61,11 +62,168 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </span>
 </div>
 
+
 <div>
 <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://cdn.cs.1worldsync.com/47/96/47969e39-1d10-4dcb-98d8-5aaacd6635f6.jpg" alt="Cortex XDR Logo" style="height: 20px; margin-right: 8px;">
   Cortex XDR Palo Alto Networks
 </span>
+</div>
+
+### Cloud
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png" alt="Amazon Logo" style="height: 20px; margin-right: 8px;">
+    Amazon Web Services
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" style="height: 20px; margin-right: 8px;">
+    Microsoft Azure
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WE-EQFubMHMnMv-bPIW5SA.png" alt="Google Cloud Platform Logo" style="height: 20px; margin-right: 8px;">
+    Google Cloud Platform
+  </span>
+</div>
+
+
+
+### Email & App Saas
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Trend Micro Email Security
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Trend Micro Cloud App Security
+  </span>
+</div>
+
+### Vulnerability Management
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" alt="Tenable Logo" style="height: 20px; margin-right: 8px;">
+    Tenable Vulnerability Manager
+  </span>
+</div>
+
+### Operation Systems
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Windows_logo.png" alt="Microsoft Windows Logo" style="height: 20px; margin-right: 8px;">
+    Microsoft Windows
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1920,h_1080/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="Ubuntu Logo" style="height: 20px; margin-right: 8px;">
+    Ubuntu
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" style="height: 20px; margin-right: 8px;">
+    Kali Linux
+  </span>
+</div>
+
+
+### Programming Languages
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="height: 20px; margin-right: 8px;">
+    Python
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="C++ Logo" style="height: 20px; margin-right: 8px;">
+    C++
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="height: 20px; margin-right: 8px;">
+    C
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" style="height: 20px; margin-right: 8px;">
+    Java
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="height: 20px; margin-right: 8px;">
+    JavaScript
+  </span>
+</div>
+
+
+
+
+
+## Certifications
+<div>
+    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+        <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+        Trend Micro Vision One Advanced
+    </span>
+    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="AWS Logo" style="height: 20px; margin-right: 8px;">
+        AWS Certified Solutions Architect – Associate
+    </span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" style="height: 20px; margin-right: 8px;">
+    Microsoft Certified: Azure Administrator Associate
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" alt="Tenable Logo" style="height: 20px; margin-right: 8px;">
+    Tenable Cloud Security Administrator
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    Fortinet Certified Associate in Cybersecurity
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Apex One as a Service
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Deep Security 20
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    NSE 1 Network Security Associate
+</span>
+
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    NSE 2 Network Security Associate
+</span>
+
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    NSE 3 Network Security Associate
+</span>    
 </div>
 
 ### Cloud
