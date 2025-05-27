@@ -32,7 +32,12 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     FortiAnalyzer
   </span>
 </div>
-
+<div>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+  <img src="https://logowik.com/content/uploads/images/f5-networks7669.jpg" alt="F5 BIG-IP Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+  F5 BIG-IP
+</span>
+</div>
 
 
 ### Endpoint/Server
