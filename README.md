@@ -65,6 +65,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     </span>
 </div>
 
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
