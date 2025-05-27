@@ -53,7 +53,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
         Trend Micro Vision One Advanced
     </span>
     <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
-        <img src="https://www.cleanpng.com/png-clip-art-logo-yellow-brand-line-aws-logo-transpare-7091692/download-png-image" alt="AWS Logo" style="height: 20px; margin-right: 8px;">
+        <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="AWS Logo" style="height: 20px; margin-right: 8px;">
         AWS Certified Solutions Architect – Associate
     </span>
 </div>
