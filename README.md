@@ -60,6 +60,18 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" style="height: 20px; margin-right: 8px;">
     Microsoft Certified: Azure Administrator Associate
 </span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" alt="Tenable Logo" style="height: 20px; margin-right: 8px;">
+    Tenable Cloud Security Administrator
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    Fortinet Certified Associate in Cybersecurity
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Apex One as a Service
+</span>
 
     
 </div>
