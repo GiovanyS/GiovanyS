@@ -142,36 +142,36 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 ### Programming Languages
 <div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="height: 20px; margin-right: 8px;">
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     Python
   </span>
 </div>
 
 <div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="C++ Logo" style="height: 20px; margin-right: 8px;">
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="C++ Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     C++
   </span>
 </div>
 
 <div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="height: 20px; margin-right: 8px;">
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     C
   </span>
 </div>
 
 <div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" style="height: 20px; margin-right: 8px;">
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     Java
   </span>
 </div>
 
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="height: 20px; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     JavaScript
   </span>
 </div>
