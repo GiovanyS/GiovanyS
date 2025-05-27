@@ -29,6 +29,13 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/PaloAltoNetworks_2020_Logo.svg" alt="Palo Alto Networks Logo" style="height: 20px; margin-right: 8px;">
   Palo Alto Networks Firewall
 </div>
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    Fortigate Firewall
+  </span>
+</div>
+
 
 ### Endpoint/Servidor
 <div>
