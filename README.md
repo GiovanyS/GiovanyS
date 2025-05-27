@@ -275,14 +275,14 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" style="height: 20px; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" style="height: 16px; width: 24px; object-fit: cover; margin-right: 8px;">
     Brazilian Portuguese
   </span>
 </div>
 
-<div>
+<div style="margin-top: 8px;">
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="height: 20px; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="height: 16px; width: 24px; object-fit: cover; margin-right: 8px;">
     American English
   </span>
 </div>
