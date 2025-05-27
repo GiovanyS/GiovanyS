@@ -45,9 +45,6 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 ## Certifications
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
         <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
         Trend Micro Vision One Advanced
@@ -72,6 +69,25 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
     Apex One as a Service
 </span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Deep Security 20
+</span>
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    NSE 1 Network Security Associate
+</span>
+
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    NSE 2 Network Security Associate
+</span>
+
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
+    NSE 3 Network Security Associate
+</span>
+
 
     
 </div>
