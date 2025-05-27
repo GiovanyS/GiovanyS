@@ -47,17 +47,34 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 ### Endpoint/Servidor
 <div>
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
-  <img src="https://play-lh.googleusercontent.com/YMCyzD2ma_z9rLNFnaj1qucTEkPn2YgDTEXRJ2EhiW6wRrAd5O-LKIHj5LabYsISttZT=s94-rw" alt="Trend Micro Icon" style="height: 20px; margin-right: 8px;">
-  Apex One Saas/On-Premise
-</span>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Trend Micro Vision One
+  </span>
 </div>
+
 <div>
 <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
   Deep Security / Workload Security
 </span>
 </div>
+
+<div>
+    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+  <img src="https://play-lh.googleusercontent.com/YMCyzD2ma_z9rLNFnaj1qucTEkPn2YgDTEXRJ2EhiW6wRrAd5O-LKIHj5LabYsISttZT=s94-rw" alt="Trend Micro Icon" style="height: 20px; margin-right: 8px;">
+  Apex One Saas/On-Premise
+</span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Trend Micro Worry Free Business Security
+  </span>
+</div>
+
+
 <div>
 <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://cdn.cs.1worldsync.com/47/96/47969e39-1d10-4dcb-98d8-5aaacd6635f6.jpg" alt="Cortex XDR Logo" style="height: 20px; margin-right: 8px;">
@@ -89,11 +106,19 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 
 
-### SIEM
+### Email & App Saas
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Trend Micro Email Security
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+    Trend Micro Cloud App Security
+  </span>
 </div>
 
 ## Certifications
