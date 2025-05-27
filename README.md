@@ -30,16 +30,24 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Endpoint/Servidor
 <div>
     <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://play-lh.googleusercontent.com/YMCyzD2ma_z9rLNFnaj1qucTEkPn2YgDTEXRJ2EhiW6wRrAd5O-LKIHj5LabYsISttZT=s94-rw" alt="Trend Micro Icon" style="height: 20px; margin-right: 8px;">
   Apex One Saas/On-Premise
 </span>
-
-
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
+
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+  <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
+  Deep Security / Workload Security
+</span>
+
+<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
+  <img src="https://cdn.cs.1worldsync.com/47/96/47969e39-1d10-4dcb-98d8-5aaacd6635f6.jpg" alt="Cortex XDR Logo" style="height: 20px; margin-right: 8px;">
+  Cortex XDR Palo Alto Networks
+</span>
+
 
 ### SIEM
 <div>
