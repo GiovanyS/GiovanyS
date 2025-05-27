@@ -44,6 +44,11 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 </div>
 
 ## Certifications
+
+
+
+
+    
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
     <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 12px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; white-space: nowrap;"> 
         <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
@@ -96,10 +101,6 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     </span>
 </div>
 
-
-
-    
-</div>
 
 
 
