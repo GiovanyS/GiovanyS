@@ -289,7 +289,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Windows Logo" style="height: 20px; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Windows_logo_-_2021.svg" alt="Windows Logo" style="height: 20px; margin-right: 8px;">
     Microsoft Windows
   </span>
 </div>
