@@ -121,22 +121,22 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 ### Operation Systems
 <div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_windows_simples.svg" alt="Windows Logo" style="height: 20px; margin-right: 8px;">
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_windows_simples.svg" alt="Windows Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     Microsoft Windows
   </span>
 </div>
 
 <div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1920,h_1080/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="Ubuntu Logo" style="height: 20px; margin-right: 8px;">
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1920,h_1080/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="Ubuntu Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     Ubuntu
   </span>
 </div>
 
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" style="height: 20px; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     Kali Linux
   </span>
 </div>
