@@ -2,26 +2,14 @@
 <a href="https://www.linkedin.com/in/giovany-silva/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
 I hold a Bachelor's degree in Computer Science and a postgraduate degree in Cybersecurity. I have a strong passion for technology and cybersecurity.
 
 ## Objective
 
 My journey in Computer Science has fueled a deep passion for Cybersecurity, which led me to pursue technical courses and a postgraduate degree in the field. I am particularly interested in roles involving threat analysis, investigations, and incident response across various environments— including computer systems, networks, and cloud platforms. Additionally, I have a strong interest in secure software development and integrating security into the development lifecycle.
 
-## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -120,6 +108,40 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
     Trend Micro Cloud App Security
   </span>
 </div>
+# Vulnerability Management
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" alt="Tenable Logo" style="height: 20px; margin-right: 8px;">
+    Tenable Vulnerability Manager
+  </span>
+</div>
+
+# Operation Systems
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/pt/e/e0/Windows_logo.png" alt="Microsoft Windows Logo" style="height: 20px; margin-right: 8px;">
+    Microsoft Windows
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1920,h_1080/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="Ubuntu Logo" style="height: 20px; margin-right: 8px;">
+    Ubuntu
+  </span>
+</div>
+
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" style="height: 20px; margin-right: 8px;">
+    Kali Linux
+  </span>
+</div>
+
+
+
+
+
 
 ## Certifications
 <div>
@@ -167,7 +189,3 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 </span>    
 </div>
 
-
-# Projects
-#- Detection Lab
-#- SOC Automation Project
