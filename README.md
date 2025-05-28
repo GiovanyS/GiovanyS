@@ -39,6 +39,13 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 </span>
 </div>
 
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/200px-Cisco_logo_blue_2016.svg.png" alt="Cisco Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Cisco Router
+  </span>
+</div>
+
 
 ### Endpoint/Server
 <div>
