@@ -7,6 +7,70 @@ I hold a Bachelor's degree in Computer Science and a postgraduate degree in Cybe
 ## Objective
 
 My journey in Computer Science has fueled a deep passion for Cybersecurity, which led me to pursue technical courses and a postgraduate degree in the field. I am particularly interested in roles involving threat analysis, investigations, and incident response across various environments— including computer systems, networks, and cloud platforms. Additionally, I have a strong interest in secure software development and integrating security into the development lifecycle.
+### Main Skills
+<!-- Cloud Security -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #f0f8ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #cce; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/fluency/48/cloud-security.png" alt="Cloud Security" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Cloud Security
+  </span>
+</div>
+
+<!-- Endpoint/Server Security -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #e6fff7; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #b2dfdb; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/color/48/server-security.png" alt="Endpoint Security" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Endpoint/Server Security
+  </span>
+</div>
+
+<!-- Network Security -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #fff0f0; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #f8c6c6; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-network-security-cyber-security-flat-flat-juicy-fish.png" alt="Network Security" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Network Security
+  </span>
+</div>
+
+<!-- Application Security -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #f7f0ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #d5bdfc; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-app-security-internet-security-flat-icons-inmotus-design.png" alt="Application Security" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Application Security
+  </span>
+</div>
+
+<!-- Threat Analysis -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #fffbe6; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ffe58f; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/color/48/bug.png" alt="Threat Analysis" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Threat Analysis
+  </span>
+</div>
+
+<!-- Vulnerability Management -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #fdf2f8; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #f9a8d4; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/fluency/48/security-configuration.png" alt="Vulnerability Management" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Vulnerability Management
+  </span>
+</div>
+
+<!-- Incident Response -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #e6f7ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #91d5ff; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/color/48/emergency.png" alt="Incident Response" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Incident Response
+  </span>
+</div>
+
+<!-- Programming -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #f0f5ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #adc6ff; margin-bottom: 4px;">
+    <img src="https://img.icons8.com/ios-filled/50/000000/code.png" alt="Programming" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    Programming
+  </span>
+</div>
 
 
 ## Certifications
