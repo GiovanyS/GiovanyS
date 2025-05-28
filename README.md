@@ -143,6 +143,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   Cortex XDR Palo Alto Networks
 </span>
 </div>
+
 ### Network
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
