@@ -251,6 +251,14 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </span>
 </div>
 
+<div>
+  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/960px-PfSense_logo.png" alt="pfSense Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    pfSense Firewall
+  </span>
+</div>
+
+
 
 ### Email & App Saas
 <div>
