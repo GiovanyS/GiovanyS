@@ -153,6 +153,12 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </div>
 </div>
 
+## Projects
+
+<a href="https://github.com/GiovanyS/English-Learning-Platform">English Learning Platform</a>
+<a href="https://github.com/GiovanyS/Dashboard-Platform-for-Risk-Insights">Dashboard Platform for Risk Insights</a>
+<a href="https://github.com/GiovanyS/Dashboard-for-CVE-monitoring">Dashboard-for-CVE-monitoring</a>
+<a href="https://github.com/GiovanyS/CVE-Collector">CVE-Collector</a>
 
 ## Tools/Solutions
 ### Cloud
