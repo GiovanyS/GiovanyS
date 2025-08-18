@@ -209,7 +209,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 <div>
     <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://play-lh.googleusercontent.com/YMCyzD2ma_z9rLNFnaj1qucTEkPn2YgDTEXRJ2EhiW6wRrAd5O-LKIHj5LabYsISttZT=s94-rw" alt="Trend Micro Icon" style="height: 20px; margin-right: 8px;">
-  Apex One Saas/On-Premise
+  Trend Micro Apex One Saas/On-Premise
 </span>
 </div>
 
