@@ -246,7 +246,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 <div>
 <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
   <img src="https://backoffice.vendr.com/public-assets/logos/1721224260229/crowdstike2.svg" alt="CrowdStrike Logo" style="height: 20px; margin-right: 8px;">
-  Crowdstrike Falcon
+   Crowdstrike Falcon
 </span>
 </div>
 
