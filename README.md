@@ -72,6 +72,13 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </span>
 </div>
 
+<!-- Programming -->
+<div>
+  <span style="display: inline-flex; align-items: center; background: #f0f5ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #adc6ff; margin-bottom: 4px;">
+  🤖⚙️ 
+    <span style="margin-left: 8px;">Automation</span>
+  </span>
+</div>
 
 
 ## Certifications
