@@ -279,7 +279,7 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 <div>
   <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://www.stickerpress.in/media/products/800x800/1609ed30832a4867b9e4fa09a3e4e931.webp" alt="Wireshark Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/960px-Wireshark_icon.svg.png" alt="Wireshark Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
     Wireshark
   </span>
 </div>
