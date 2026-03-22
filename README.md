@@ -177,6 +177,8 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
 
 ## Projects
 
+
+- <a href="https://github.com/GiovanyS/Ransomware-Advisory-Monitoring-Agent">Ransomware Advisory Monitoring Agent</a>
 - <a href="https://github.com/GiovanyS/Security-Awareness-Phishing-Template-Generator">Security Awareness Phishing Template Generator</a>
 - <a href="https://github.com/GiovanyS/Security-Alert-Escalation-Agent">Security Alert Escalation Agent</a>
 - <a href="https://github.com/GiovanyS/Automation-Agent-CVE-Notification">Automation Agent CVE Notification</a>
