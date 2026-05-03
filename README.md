@@ -1,417 +1,109 @@
-# Hello, I'm Giovany
+# Hello, I'm Giovany Silva 👋
 <a href="https://www.linkedin.com/in/giovany-silva/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 
 I hold a Bachelor's degree in Computer Science and a postgraduate degree in Cybersecurity. I have a strong passion for technology and information security. Throughout my journey, I have been dedicated to continuously improving my knowledge, always striving to keep up with the evolving challenges and advancements in the field. I am an enthusiast in the field and a chess enthusiast as a hobby.
 
-
-## Objective
+## 🎯 Objective
 
 My journey in Computer Science has fueled a deep passion for Cybersecurity, which led me to pursue technical courses and a postgraduate degree in the field. I am particularly interested in roles involving threat analysis, investigations, and incident response across various environments— including computer systems, networks, and cloud platforms. Additionally, I have a strong interest in secure software development and integrating security into the development lifecycle.
-### Main Skills
-<!-- Cloud Security -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #f0f8ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #cce; margin-bottom: 4px;">
-    ☁️🔒
-    <span style="margin-left: 8px;">Cloud Security</span>
-  </span>
-</div>
 
-<!-- Endpoint/Server Security -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #e6fff7; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #b2dfdb; margin-bottom: 4px;">
-    🖥️🛡️
-    <span style="margin-left: 8px;">Endpoint/Server Security</span>
-  </span>
-</div>
+---
 
-<!-- Network Security -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #fff0f0; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #f8c6c6; margin-bottom: 4px;">
-    🌐🔐
-    <span style="margin-left: 8px;">Network Security</span>
-  </span>
-</div>
+## 🛠️ Main Skills
 
-<!-- Application Security -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #f7f0ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #d5bdfc; margin-bottom: 4px;">
-    📱🛡️
-    <span style="margin-left: 8px;">Application Security</span>
-  </span>
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud_Security-f0f8ff?style=for-the-badge&logo=icloud&logoColor=000" />
+  <img src="https://img.shields.io/badge/Endpoint_Security-e6fff7?style=for-the-badge&logo=guardant&logoColor=000" />
+  <img src="https://img.shields.io/badge/Network_Security-fff0f0?style=for-the-badge&logo=wireshark&logoColor=000" />
+  <img src="https://img.shields.io/badge/App_Security-f7f0ff?style=for-the-badge&logo=fortinet&logoColor=000" />
+  <img src="https://img.shields.io/badge/Threat_Analysis-fffbe6?style=for-the-badge&logo=search&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vulnerability_Management-fdf2f8?style=for-the-badge&logo=target&logoColor=000" />
+  <img src="https://img.shields.io/badge/Incident_Response-e6f7ff?style=for-the-badge&logo=alert&logoColor=000" />
+  <img src="https://img.shields.io/badge/Programming-f0f5ff?style=for-the-badge&logo=code&logoColor=000" />
+  <img src="https://img.shields.io/badge/Automation-f0f5ff?style=for-the-badge&logo=githubactions&logoColor=000" />
+</p>
 
-<!-- Threat Analysis -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #fffbe6; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ffe58f; margin-bottom: 4px;">
-    🐞🔍
-    <span style="margin-left: 8px;">Threat Analysis</span>
-  </span>
-</div>
+---
 
-<!-- Vulnerability Management -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #fdf2f8; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #f9a8d4; margin-bottom: 4px;">
-    ⚠️🛠️
-    <span style="margin-left: 8px;">Vulnerability Management</span>
-  </span>
-</div>
+## 🏆 Certifications
 
-<!-- Incident Response -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #e6f7ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #91d5ff; margin-bottom: 4px;">
-    🚨📞
-    <span style="margin-left: 8px;">Incident Response</span>
-  </span>
-</div>
+<table>
+  <tr>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Vision One Network Security Advanced</td>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Vision One Cloud Security Advanced</td>
+  </tr>
+  <tr>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Vision One Advanced</td>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Apex One as a Service</td>
+  </tr>
+  <tr>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Deep Security 20</td>
+    <td><img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="20"> AWS Certified SysOps Administrator – Associate</td>
+  </tr>
+  <tr>
+    <td><img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="20"> AWS Certified Solutions Architect – Associate</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="20"> Microsoft Certified: Azure Administrator Associate</td>
+  </tr>
+  <tr>
+    <td><img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" width="20"> Tenable Cloud Security Administrator</td>
+    <td><img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" width="20"> Fortinet Certified Associate in Cybersecurity</td>
+  </tr>
+  <tr>
+    <td><img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" width="20"> NSE 1 Network Security Associate</td>
+    <td><img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" width="20"> NSE 2 Network Security Associate</td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" width="20"> NSE 3 Network Security Associate</td>
+  </tr>
+</table>
 
-<!-- Programming -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #f0f5ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #adc6ff; margin-bottom: 4px;">
-    💻👨‍💻
-    <span style="margin-left: 8px;">Programming</span>
-  </span>
-</div>
+---
 
-<!-- Programming -->
-<div>
-  <span style="display: inline-flex; align-items: center; background: #f0f5ff; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #adc6ff; margin-bottom: 4px;">
-  🤖⚙️ 
-    <span style="margin-left: 8px;">Automation</span>
-  </span>
-</div>
+## 📂 Projects
 
+- 🛡️ [Ransomware Advisory Monitoring Agent](https://github.com/GiovanyS/Ransomware-Advisory-Monitoring-Agent)
+- 🎣 [Security Awareness Phishing Template Generator](https://github.com/GiovanyS/Security-Awareness-Phishing-Template-Generator)
+- 🚨 [Security Alert Escalation Agent](https://github.com/GiovanyS/Security-Alert-Escalation-Agent)
+- 🤖 [Automation Agent CVE Notification](https://github.com/GiovanyS/Automation-Agent-CVE-Notification)
+- 📊 [Dashboard Platform for Risk Insights](https://github.com/GiovanyS/Dashboard-Platform-for-Risk-Insights)
+- 📈 [Dashboard-for-CVE-monitoring](https://github.com/GiovanyS/Dashboard-for-CVE-monitoring)
+- 🎓 [English Learning Platform](https://github.com/GiovanyS/English-Learning-Platform)
+- 🔍 [CVE-Collector](https://github.com/GiovanyS/CVE-Collector)
 
-## Certifications
-<div>
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-      Trend Vision One Network Security Advanced
-    </span>
-  </div>
-  
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-      Trend Vision One Cloud Security Advanced
-    </span>
-  </div>
+---
 
-<div>
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-      Trend Micro Vision One Advanced
-    </span>
-  </div>
+## 💻 Tools & Solutions
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-      Trend Micro Apex One as a Service
-    </span>
-  </div>
+### ☁️ Cloud
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-      Trend Micro Deep Security 20
-    </span>
-  </div>
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="AWS Logo" style="height: 20px; margin-right: 8px;">
-      AWS Certified SysOps Administrator – Associate
-    </span>
-  </div>
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="AWS Logo" style="height: 20px; margin-right: 8px;">
-      AWS Certified Solutions Architect – Associate
-    </span>
-  </div>
+### 🖥️ Endpoint & Server
+- **Trend Micro:** Vision One | Deep Security | Cloud One | Apex One | Worry Free
+- **Palo Alto:** Cortex XDR
+- **Crowdstrike:** Falcon
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" style="height: 20px; margin-right: 8px;">
-      Microsoft Certified: Azure Administrator Associate
-    </span>
-  </div>
+### 🌐 Network
+- **Firewalls:** Palo Alto Networks | Fortigate | pfSense
+- **Analysis:** FortiAnalyzer | F5 BIG-IP | Wireshark | Cisco Routers
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" alt="Tenable Logo" style="height: 20px; margin-right: 8px;">
-      Tenable Cloud Security Administrator
-    </span>
-  </div>
+### 📧 Email & App SaaS
+- Trend Micro Email Security | Trend Micro Cloud App Security
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
-      Fortinet Certified Associate in Cybersecurity
-    </span>
-  </div>
+### 🧪 Vulnerability Management
+- Tenable Vulnerability Manager
 
+### 🐧 Operation Systems
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
-      NSE 1 Network Security Associate
-    </span>
-  </div>
+### 🐍 Programming Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-  <div style="margin-bottom: 4px;">
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
-      NSE 2 Network Security Associate
-    </span>
-  </div>
+---
 
-  <div>
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-      <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; margin-right: 8px;">
-      NSE 3 Network Security Associate
-    </span>
-  </div>
-</div>
+## 🗣️ Languages
 
-## Projects
-
-
-- <a href="https://github.com/GiovanyS/Ransomware-Advisory-Monitoring-Agent">Ransomware Advisory Monitoring Agent</a>
-- <a href="https://github.com/GiovanyS/Security-Awareness-Phishing-Template-Generator">Security Awareness Phishing Template Generator</a>
-- <a href="https://github.com/GiovanyS/Security-Alert-Escalation-Agent">Security Alert Escalation Agent</a>
-- <a href="https://github.com/GiovanyS/Automation-Agent-CVE-Notification">Automation Agent CVE Notification</a>
-- <a href="https://github.com/GiovanyS/Dashboard-Platform-for-Risk-Insights">Dashboard Platform for Risk Insights</a>
-- <a href="https://github.com/GiovanyS/Dashboard-for-CVE-monitoring">Dashboard-for-CVE-monitoring</a>
-- <a href="https://github.com/GiovanyS/English-Learning-Platform">English Learning Platform</a>
-- <a href="https://github.com/GiovanyS/CVE-Collector">CVE-Collector</a>
-
-
-## Tools/Solutions
-### Cloud
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Amazon_icon.png" alt="Amazon Logo" style="height: 20px; margin-right: 8px;">
-    Amazon Web Services
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Azure Logo" style="height: 20px; margin-right: 8px;">
-    Microsoft Azure
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*WE-EQFubMHMnMv-bPIW5SA.png" alt="Google Cloud Platform Logo" style="height: 20px; margin-right: 8px;">
-    Google Cloud Platform
-  </span>
-</div>
-
-### Endpoint/Server
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-    Trend Micro Vision One
-  </span>
-</div>
-
-<div>
-<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
-  <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-  Trend Micro Deep Security / Trend Micro Cloud One Workload Security
-</span>
-</div>
-
-<div>
-    <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
-  <img src="https://play-lh.googleusercontent.com/YMCyzD2ma_z9rLNFnaj1qucTEkPn2YgDTEXRJ2EhiW6wRrAd5O-LKIHj5LabYsISttZT=s94-rw" alt="Trend Micro Icon" style="height: 20px; margin-right: 8px;">
-  Trend Micro Apex One Saas/On-Premise
-</span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-    Trend Micro Worry Free Business Security
-  </span>
-</div>
-
-
-<div>
-<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
-  <img src="https://cdn.cs.1worldsync.com/47/96/47969e39-1d10-4dcb-98d8-5aaacd6635f6.jpg" alt="Cortex XDR Logo" style="height: 20px; margin-right: 8px;">
-  Cortex XDR Palo Alto Networks
-</span>
-</div>
-
-
-<div>
-<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-left: 8px;">
-  <img src="https://backoffice.vendr.com/public-assets/logos/1721224260229/crowdstike2.svg" alt="CrowdStrike Logo" style="height: 20px; margin-right: 8px;">
-   Crowdstrike Falcon
-</span>
-</div>
-
-### Network
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/PaloAltoNetworks_2020_Logo.svg" alt="Palo Alto Networks Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Palo Alto Networks Firewall
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Fortigate Firewall
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://dev.socialidnow.com/images/9/9a/Fortinet-Logo.png" alt="Fortinet Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    FortiAnalyzer
-  </span>
-</div>
-<div>
-<span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-  <img src="https://logowik.com/content/uploads/images/f5-networks7669.jpg" alt="F5 BIG-IP Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-  F5 BIG-IP
-</span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cisco_logo_blue_2016.svg/200px-Cisco_logo_blue_2016.svg.png" alt="Cisco Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Cisco Router
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/960px-Wireshark_icon.svg.png" alt="Wireshark Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Wireshark
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/PfSense_logo.png/960px-PfSense_logo.png" alt="pfSense Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    pfSense Firewall
-  </span>
-</div>
-
-
-
-### Email & App Saas
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-    Trend Micro Email Security
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" alt="Trend Micro Logo" style="height: 20px; margin-right: 8px;">
-    Trend Micro Cloud App Security
-  </span>
-</div>
-
-### Vulnerability Management
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://getlogovector.com/wp-content/uploads/2020/10/tenable-inc-logo-vector.png" alt="Tenable Logo" style="height: 20px; margin-right: 8px;">
-    Tenable Vulnerability Manager
-  </span>
-</div>
-
-### Operation Systems
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_windows_simples.svg" alt="Windows Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Microsoft Windows
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1920,h_1080/https://ubuntu.com/wp-content/uploads/ff30/logo_thumbnailYT.png" alt="Ubuntu Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Ubuntu
-  </span>
-</div>
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" alt="Debian Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Debian
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Kali Linux
-  </span>
-</div>
-
-
-### Programming Languages
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Python
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg" alt="C++ Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    C++
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    C
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd; margin-bottom: 4px;">
-    <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" alt="Java Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    Java
-  </span>
-</div>
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" style="height: 20px; width: 20px; object-fit: contain; margin-right: 8px;">
-    JavaScript
-  </span>
-</div>
-
-### Languages
-
-<div>
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" style="height: 16px; width: 24px; object-fit: cover; margin-right: 8px;">
-    Brazilian Portuguese
-  </span>
-</div>
-
-<div style="margin-top: 8px;">
-  <span style="display: inline-flex; align-items: center; background: #FFFFFF; border-radius: 4px; padding: 4px 8px; font-family: sans-serif; font-size: 14px; font-weight: bold; border: 1px solid #ddd;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="USA Flag" style="height: 16px; width: 24px; object-fit: cover; margin-right: 8px;">
-    American English
-  </span>
-</div>
-
+- **Portuguese:** Native 🇧🇷
+- **English:** Professional 🇺🇸
 
 
 
