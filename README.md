@@ -2,7 +2,8 @@
 <a href="https://www.linkedin.com/in/giovany-silva/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I hold a Bachelor's degree in Computer Science and a postgraduate degree in Cybersecurity. I have a strong passion for technology and cybersecurity.
+I hold a Bachelor's degree in Computer Science and a postgraduate degree in Cybersecurity. I have a strong passion for technology and information security. Throughout my journey, I have been dedicated to continuously improving my knowledge, always striving to keep up with the evolving challenges and advancements in the field. I am an enthusiast in the field and a chess enthusiast as a hobby.
+
 
 ## Objective
 
