@@ -34,10 +34,10 @@ My journey in Computer Science has fueled a deep passion for Cybersecurity, whic
   </tr>
   <tr>
     <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Vision One Advanced</td>
-    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Apex One as a Service</td>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Apex One as a Service Professional</td>
   </tr>
   <tr>
-    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Deep Security 20</td>
+    <td><img src="https://companieslogo.com/img/orig/4704.T-f095ba2a.png?t=1730443068" width="20"> Trend Micro Deep Security 20 Professional</td>
     <td><img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" width="20"> AWS Certified SysOps Administrator – Associate</td>
   </tr>
   <tr>
